@@ -1,13 +1,16 @@
-# DANO_23_project_tour
-Literally..? //
+# Олимпиада DANO'23 - команда Nestle
 
+# Используемый датасет: Тинькофф - сервис Игры
 
-## data folder
-### Keeps our dataset and may keep other dataset if we will work with them
----
+## Папка data
+data/T_games.dataset.csv - датасет
+data/T_games_Описание_датасета.pdf - описание датасета
 
-## main.ipynb 
-### Main jupyter file. Each cell must be described by markdown cell above
----
+## Папка unused
+Файлы, которые появились во время работы над проектом, но не были использованы в финальной версии
 
-#### Other jupyter files can be created but all must be described by markdown cell at the top
+## Папка output
+Таблицы и графики, полученные в результате работы
+
+## main.ipynb
+Основной блокнот проекта
